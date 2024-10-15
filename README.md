@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cypress, AI testing**
 
-- 🤝 I’m looking for help with **Python website testing**
+- 🤝 I can help with **Python website testing**
 
 - 💬 Ask me about **POM, pytest, pycharm, Automation testing**
 
