@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Vinerkar</h1>
-<h3 align="center">A passionate Automation Tester from India. Senior QA Professional | Driving Test Automation for Websites & Apps | Ensuring Digital Excellence | Ex-Accenture & eClerx</h3>
+<h3 align="center">Senior QA Professional | Driving Test Automation for Websites & Apps | Ensuring Digital Excellence | Ex-Accenture & eClerx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvinerkar&label=Profile%20views&color=0e75b6&style=flat" alt="tvinerkar" /> </p>
 
