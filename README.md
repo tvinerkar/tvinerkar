@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation project**
 
-- 🌱 I’m currently learning **Cypress, AI testing**
+- 🌱 I’m currently learning **Playwright, AI testing**
 
 - 🤝 I can help with **Python website testing**
 
